@@ -1,0 +1,8 @@
+interface:
+  display_name: "Support Responder"
+  short_description: "Expert customer support specialist delivering exceptional cus..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $support-support-responder when you need support responder guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

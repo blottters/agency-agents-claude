@@ -1,0 +1,8 @@
+interface:
+  display_name: "Project Shepherd"
+  short_description: "Expert project manager specializing in cross-functional proje..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $project-management-project-shepherd when you need project shepherd guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

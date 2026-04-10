@@ -1,0 +1,8 @@
+interface:
+  display_name: "Studio Producer"
+  short_description: "Senior strategic leader specializing in high-level creative a..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $project-management-studio-producer when you need studio producer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

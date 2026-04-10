@@ -1,0 +1,8 @@
+interface:
+  display_name: "Senior Developer"
+  short_description: "Premium implementation specialist - Masters Laravel/Livewire/..."
+  brand_color: "#15803D"
+  default_prompt: "Use $engineering-senior-developer when you need senior developer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

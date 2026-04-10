@@ -1,0 +1,8 @@
+interface:
+  display_name: "Behavioral Nudge Engine"
+  short_description: "Behavioral psychology specialist that adapts software interac..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $product-behavioral-nudge-engine when you need behavioral nudge engine guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

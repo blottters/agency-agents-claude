@@ -1,0 +1,8 @@
+interface:
+  display_name: "visionOS Spatial Engineer"
+  short_description: "Native visionOS spatial computing, SwiftUI volumetric interfa..."
+  brand_color: "#4F46E5"
+  default_prompt: "Use $visionos-spatial-engineer when you need visionos spatial engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "App Store Optimizer"
+  short_description: "Expert app store marketing specialist focused on App Store Op..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-app-store-optimizer when you need app store optimizer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

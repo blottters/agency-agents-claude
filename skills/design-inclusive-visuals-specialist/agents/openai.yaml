@@ -1,0 +1,8 @@
+interface:
+  display_name: "Inclusive Visuals Specialist"
+  short_description: "Representation expert who defeats systemic AI biases to gener..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $design-inclusive-visuals-specialist when you need inclusive visuals specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

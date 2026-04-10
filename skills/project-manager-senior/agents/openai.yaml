@@ -1,0 +1,8 @@
+interface:
+  display_name: "Senior Project Manager"
+  short_description: "Converts specs to tasks and remembers previous projects. Focu..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $project-manager-senior when you need senior project manager guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

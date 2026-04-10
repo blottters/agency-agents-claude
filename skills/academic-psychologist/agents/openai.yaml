@@ -1,0 +1,8 @@
+interface:
+  display_name: "Psychologist"
+  short_description: "Expert in human behavior, personality theory, motivation, and..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $academic-psychologist when you need psychologist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

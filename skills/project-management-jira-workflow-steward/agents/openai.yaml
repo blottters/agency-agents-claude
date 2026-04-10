@@ -1,0 +1,8 @@
+interface:
+  display_name: "Jira Workflow Steward"
+  short_description: "Expert delivery operations specialist who enforces Jira-linke..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $project-management-jira-workflow-steward when you need jira workflow steward guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

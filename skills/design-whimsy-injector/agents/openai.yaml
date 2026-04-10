@@ -1,0 +1,8 @@
+interface:
+  display_name: "Whimsy Injector"
+  short_description: "Expert creative specialist focused on adding personality, del..."
+  brand_color: "#DB2777"
+  default_prompt: "Use $design-whimsy-injector when you need whimsy injector guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

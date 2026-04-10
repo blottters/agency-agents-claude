@@ -1,0 +1,8 @@
+interface:
+  display_name: "Agents Orchestrator"
+  short_description: "Autonomous pipeline manager that orchestrates the entire deve..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $agents-orchestrator when you need agents orchestrator guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

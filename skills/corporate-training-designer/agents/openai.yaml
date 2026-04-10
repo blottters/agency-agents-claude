@@ -1,0 +1,8 @@
+interface:
+  display_name: "Corporate Training Designer"
+  short_description: "Expert in enterprise training system design and curriculum de..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $corporate-training-designer when you need corporate training designer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

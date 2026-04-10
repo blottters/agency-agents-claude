@@ -1,0 +1,8 @@
+interface:
+  display_name: "Carousel Growth Engine"
+  short_description: "Autonomous TikTok and Instagram carousel generation specialis..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-carousel-growth-engine when you need carousel growth engine guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

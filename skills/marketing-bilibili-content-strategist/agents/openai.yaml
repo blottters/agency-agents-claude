@@ -1,0 +1,8 @@
+interface:
+  display_name: "Bilibili Content Strategist"
+  short_description: "Expert Bilibili marketing specialist focused on UP主 growth, d..."
+  brand_color: "#DB2777"
+  default_prompt: "Use $marketing-bilibili-content-strategist when you need bilibili content strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

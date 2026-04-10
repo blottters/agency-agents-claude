@@ -1,0 +1,8 @@
+interface:
+  display_name: "Growth Hacker"
+  short_description: "Expert growth strategist specializing in rapid user acquisiti..."
+  brand_color: "#15803D"
+  default_prompt: "Use $marketing-growth-hacker when you need growth hacker guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

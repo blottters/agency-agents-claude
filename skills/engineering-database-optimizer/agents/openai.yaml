@@ -1,0 +1,8 @@
+interface:
+  display_name: "Database Optimizer"
+  short_description: "Expert database specialist focusing on schema design, query o..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-database-optimizer when you need database optimizer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

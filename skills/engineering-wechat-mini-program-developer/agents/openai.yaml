@@ -1,0 +1,8 @@
+interface:
+  display_name: "WeChat Mini Program Developer"
+  short_description: "Expert WeChat Mini Program developer specializing in 小程序 deve..."
+  brand_color: "#15803D"
+  default_prompt: "Use $engineering-wechat-mini-program-developer when you need wechat mini program developer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

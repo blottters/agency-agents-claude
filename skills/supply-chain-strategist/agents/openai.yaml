@@ -1,0 +1,8 @@
+interface:
+  display_name: "Supply Chain Strategist"
+  short_description: "Expert supply chain management and procurement strategy speci..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $supply-chain-strategist when you need supply chain strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

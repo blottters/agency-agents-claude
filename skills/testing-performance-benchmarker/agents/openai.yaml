@@ -1,0 +1,8 @@
+interface:
+  display_name: "Performance Benchmarker"
+  short_description: "Expert performance testing and optimization specialist focuse..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $testing-performance-benchmarker when you need performance benchmarker guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

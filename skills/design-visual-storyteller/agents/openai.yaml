@@ -1,0 +1,8 @@
+interface:
+  display_name: "Visual Storyteller"
+  short_description: "Expert visual communication specialist focused on creating co..."
+  brand_color: "#7C3AED"
+  default_prompt: "Use $design-visual-storyteller when you need visual storyteller guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

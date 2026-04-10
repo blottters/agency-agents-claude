@@ -1,0 +1,8 @@
+interface:
+  display_name: "Brand Guardian"
+  short_description: "Expert brand strategist and guardian specializing in brand id..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $design-brand-guardian when you need brand guardian guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

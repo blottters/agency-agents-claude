@@ -1,0 +1,8 @@
+interface:
+  display_name: "Feedback Synthesizer"
+  short_description: "Expert in collecting, analyzing, and synthesizing user feedba..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $product-feedback-synthesizer when you need feedback synthesizer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

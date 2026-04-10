@@ -1,0 +1,8 @@
+interface:
+  display_name: "Anthropologist"
+  short_description: "Expert in cultural systems, rituals, kinship, belief systems,..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $academic-anthropologist when you need anthropologist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

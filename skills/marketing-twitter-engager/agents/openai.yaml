@@ -1,0 +1,8 @@
+interface:
+  display_name: "Twitter Engager"
+  short_description: "Expert Twitter marketing specialist focused on real-time enga..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-twitter-engager when you need twitter engager guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

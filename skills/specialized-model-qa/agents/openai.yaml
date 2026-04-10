@@ -1,0 +1,8 @@
+interface:
+  display_name: "Model QA Specialist"
+  short_description: "Independent model QA expert who audits ML and statistical mod..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $specialized-model-qa when you need model qa specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

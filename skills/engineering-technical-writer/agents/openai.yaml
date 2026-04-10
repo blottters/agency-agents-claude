@@ -1,0 +1,8 @@
+interface:
+  display_name: "Technical Writer"
+  short_description: "Expert technical writer specializing in developer documentati..."
+  brand_color: "#0F766E"
+  default_prompt: "Use $engineering-technical-writer when you need technical writer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

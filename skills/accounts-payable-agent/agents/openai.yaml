@@ -1,0 +1,8 @@
+interface:
+  display_name: "Accounts Payable Agent"
+  short_description: "Autonomous payment processing specialist that executes vendor..."
+  brand_color: "#15803D"
+  default_prompt: "Use $accounts-payable-agent when you need accounts payable agent guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

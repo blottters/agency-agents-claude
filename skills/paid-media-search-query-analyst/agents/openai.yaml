@@ -1,0 +1,8 @@
+interface:
+  display_name: "Search Query Analyst"
+  short_description: "Specialist in search term analysis, negative keyword architec..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $paid-media-search-query-analyst when you need search query analyst guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

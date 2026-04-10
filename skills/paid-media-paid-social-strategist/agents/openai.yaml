@@ -1,0 +1,8 @@
+interface:
+  display_name: "Paid Social Strategist"
+  short_description: "Cross-platform paid social advertising specialist covering Me..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $paid-media-paid-social-strategist when you need paid social strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

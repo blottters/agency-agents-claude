@@ -1,0 +1,8 @@
+interface:
+  display_name: "Backend Architect"
+  short_description: "Senior backend architect specializing in scalable system desi..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-backend-architect when you need backend architect guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

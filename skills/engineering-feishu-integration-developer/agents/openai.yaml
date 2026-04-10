@@ -1,0 +1,8 @@
+interface:
+  display_name: "Feishu Integration Developer"
+  short_description: "Full-stack integration expert specializing in the Feishu (Lar..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-feishu-integration-developer when you need feishu integration developer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

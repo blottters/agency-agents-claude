@@ -1,0 +1,8 @@
+interface:
+  display_name: "Test Results Analyzer"
+  short_description: "Expert test analysis specialist focused on comprehensive test..."
+  brand_color: "#4F46E5"
+  default_prompt: "Use $testing-test-results-analyzer when you need test results analyzer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

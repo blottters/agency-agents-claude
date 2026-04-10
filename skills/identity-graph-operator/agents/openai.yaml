@@ -1,0 +1,8 @@
+interface:
+  display_name: "Identity Graph Operator"
+  short_description: "Operates a shared identity graph that multiple AI agents reso..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $identity-graph-operator when you need identity graph operator guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

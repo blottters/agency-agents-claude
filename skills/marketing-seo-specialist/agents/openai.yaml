@@ -1,0 +1,8 @@
+interface:
+  display_name: "SEO Specialist"
+  short_description: "Expert search engine optimization strategist specializing in..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-seo-specialist when you need seo specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

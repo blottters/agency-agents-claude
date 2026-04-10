@@ -1,0 +1,8 @@
+interface:
+  display_name: "Ad Creative Strategist"
+  short_description: "Paid media creative specialist focused on ad copywriting, RSA..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $paid-media-creative-strategist when you need ad creative strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

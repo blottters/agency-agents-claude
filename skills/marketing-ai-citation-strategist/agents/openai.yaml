@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI Citation Strategist"
+  short_description: "Expert in AI recommendation engine optimization (AEO/GEO) - a..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-ai-citation-strategist when you need ai citation strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

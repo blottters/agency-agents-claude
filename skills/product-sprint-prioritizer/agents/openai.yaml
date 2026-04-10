@@ -1,0 +1,8 @@
+interface:
+  display_name: "Sprint Prioritizer"
+  short_description: "Expert product manager specializing in agile sprint planning,..."
+  brand_color: "#15803D"
+  default_prompt: "Use $product-sprint-prioritizer when you need sprint prioritizer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

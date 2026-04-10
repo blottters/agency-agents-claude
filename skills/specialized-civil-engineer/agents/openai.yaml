@@ -1,0 +1,8 @@
+interface:
+  display_name: "Civil Engineer"
+  short_description: "Expert civil and structural engineer with global standards co..."
+  brand_color: "#CA8A04"
+  default_prompt: "Use $specialized-civil-engineer when you need civil engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

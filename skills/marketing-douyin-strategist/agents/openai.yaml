@@ -1,0 +1,8 @@
+interface:
+  display_name: "Douyin Strategist"
+  short_description: "Short-video marketing expert specializing in the Douyin platf..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-douyin-strategist when you need douyin strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

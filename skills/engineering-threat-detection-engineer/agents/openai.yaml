@@ -1,0 +1,8 @@
+interface:
+  display_name: "Threat Detection Engineer"
+  short_description: "Expert detection engineer specializing in SIEM rule developme..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-threat-detection-engineer when you need threat detection engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

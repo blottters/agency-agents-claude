@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finance Tracker"
+  short_description: "Expert financial analyst and controller specializing in finan..."
+  brand_color: "#15803D"
+  default_prompt: "Use $support-finance-tracker when you need finance tracker guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

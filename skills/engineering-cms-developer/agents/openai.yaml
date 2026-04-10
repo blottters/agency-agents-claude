@@ -1,0 +1,8 @@
+interface:
+  display_name: "CMS Developer"
+  short_description: "Drupal and WordPress specialist for theme development, custom..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-cms-developer when you need cms developer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

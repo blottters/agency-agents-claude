@@ -1,0 +1,8 @@
+interface:
+  display_name: "Infrastructure Maintainer"
+  short_description: "Expert infrastructure specialist focused on system reliabilit..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $support-infrastructure-maintainer when you need infrastructure maintainer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

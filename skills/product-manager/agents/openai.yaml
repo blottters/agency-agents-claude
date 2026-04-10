@@ -1,0 +1,8 @@
+interface:
+  display_name: "Product Manager"
+  short_description: "Holistic product leader who owns the full product lifecycle -..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $product-manager when you need product manager guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

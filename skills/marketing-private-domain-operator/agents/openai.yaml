@@ -1,0 +1,8 @@
+interface:
+  display_name: "Private Domain Operator"
+  short_description: "Expert in building enterprise WeChat (WeCom) private domain e..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-private-domain-operator when you need private domain operator guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

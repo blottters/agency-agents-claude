@@ -1,0 +1,8 @@
+interface:
+  display_name: "Cross-Border E-Commerce Specialist"
+  short_description: "Full-funnel cross-border e-commerce strategist covering Amazo..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-cross-border-ecommerce when you need cross-border e-commerce specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

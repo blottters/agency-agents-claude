@@ -1,0 +1,8 @@
+interface:
+  display_name: "Video Optimization Specialist"
+  short_description: "Video marketing strategist specializing in YouTube algorithm..."
+  brand_color: "#DC2626"
+  default_prompt: "Use $marketing-video-optimization-specialist when you need video optimization specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Book Co-Author"
+  short_description: "Strategic thought-leadership book collaborator for founders,..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-book-co-author when you need book co-author guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

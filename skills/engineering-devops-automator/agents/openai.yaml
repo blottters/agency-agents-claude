@@ -1,0 +1,8 @@
+interface:
+  display_name: "DevOps Automator"
+  short_description: "Expert DevOps engineer specializing in infrastructure automat..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $engineering-devops-automator when you need devops automator guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

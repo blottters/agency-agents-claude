@@ -1,0 +1,8 @@
+interface:
+  display_name: "Accessibility Auditor"
+  short_description: "Expert accessibility specialist who audits interfaces against..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $testing-accessibility-auditor when you need accessibility auditor guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

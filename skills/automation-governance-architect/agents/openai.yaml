@@ -1,0 +1,8 @@
+interface:
+  display_name: "Automation Governance Architect"
+  short_description: "Governance-first architect for business automations (n8n-firs..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $automation-governance-architect when you need automation governance architect guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

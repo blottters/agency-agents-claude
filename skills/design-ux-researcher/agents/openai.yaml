@@ -1,0 +1,8 @@
+interface:
+  display_name: "UX Researcher"
+  short_description: "Expert user experience researcher specializing in user behavi..."
+  brand_color: "#15803D"
+  default_prompt: "Use $design-ux-researcher when you need ux researcher guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

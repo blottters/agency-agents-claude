@@ -1,0 +1,8 @@
+interface:
+  display_name: "Zhihu Strategist"
+  short_description: "Expert Zhihu marketing specialist focused on thought leadersh..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-zhihu-strategist when you need zhihu strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

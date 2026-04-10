@@ -1,0 +1,8 @@
+interface:
+  display_name: "Studio Operations"
+  short_description: "Expert operations manager specializing in day-to-day studio e..."
+  brand_color: "#15803D"
+  default_prompt: "Use $project-management-studio-operations when you need studio operations guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

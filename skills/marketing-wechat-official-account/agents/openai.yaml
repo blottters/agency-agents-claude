@@ -1,0 +1,8 @@
+interface:
+  display_name: "WeChat Official Account Manager"
+  short_description: "Expert WeChat Official Account (OA) strategist specializing i..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-wechat-official-account when you need wechat official account manager guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Government Digital Presales Consultant"
+  short_description: "Presales expert for China's government digital transformation..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $government-digital-presales-consultant when you need government digital presales consultant guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

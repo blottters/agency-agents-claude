@@ -1,0 +1,8 @@
+interface:
+  display_name: "Pipeline Analyst"
+  short_description: "Revenue operations analyst specializing in pipeline health di..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $sales-pipeline-analyst when you need pipeline analyst guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

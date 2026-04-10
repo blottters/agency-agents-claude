@@ -1,0 +1,8 @@
+interface:
+  display_name: "XR Cockpit Interaction Specialist"
+  short_description: "Specialist in designing and developing immersive cockpit-base..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $xr-cockpit-interaction-specialist when you need xr cockpit interaction specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

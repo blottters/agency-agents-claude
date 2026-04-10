@@ -1,0 +1,8 @@
+interface:
+  display_name: "Programmatic & Display Buyer"
+  short_description: "Display advertising and programmatic media buying specialist..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $paid-media-programmatic-buyer when you need programmatic & display buyer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

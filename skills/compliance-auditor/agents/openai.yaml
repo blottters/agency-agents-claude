@@ -1,0 +1,8 @@
+interface:
+  display_name: "Compliance Auditor"
+  short_description: "Expert technical compliance auditor specializing in SOC 2, IS..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $compliance-auditor when you need compliance auditor guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Image Prompt Engineer"
+  short_description: "Expert photography prompt engineer specializing in crafting d..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $design-image-prompt-engineer when you need image prompt engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

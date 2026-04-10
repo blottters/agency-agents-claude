@@ -1,0 +1,8 @@
+interface:
+  display_name: "Cultural Intelligence Strategist"
+  short_description: "CQ specialist that detects invisible exclusion, researches gl..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $specialized-cultural-intelligence-strategist when you need cultural intelligence strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

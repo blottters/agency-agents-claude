@@ -1,0 +1,8 @@
+interface:
+  display_name: "Workflow Optimizer"
+  short_description: "Expert process improvement specialist focused on analyzing, o..."
+  brand_color: "#15803D"
+  default_prompt: "Use $testing-workflow-optimizer when you need workflow optimizer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

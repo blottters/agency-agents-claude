@@ -1,0 +1,8 @@
+interface:
+  display_name: "Healthcare Marketing Compliance Specialist"
+  short_description: "Expert in healthcare marketing compliance in China, proficien..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $healthcare-marketing-compliance when you need healthcare marketing compliance specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

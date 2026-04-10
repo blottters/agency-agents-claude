@@ -1,0 +1,8 @@
+interface:
+  display_name: "Experiment Tracker"
+  short_description: "Expert project manager specializing in experiment design, exe..."
+  brand_color: "#7C3AED"
+  default_prompt: "Use $project-management-experiment-tracker when you need experiment tracker guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

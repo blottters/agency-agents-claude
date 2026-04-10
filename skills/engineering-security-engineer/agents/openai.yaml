@@ -1,0 +1,8 @@
+interface:
+  display_name: "Security Engineer"
+  short_description: "Expert application security engineer specializing in threat m..."
+  brand_color: "#DC2626"
+  default_prompt: "Use $engineering-security-engineer when you need security engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

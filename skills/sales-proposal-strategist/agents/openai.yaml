@@ -1,0 +1,8 @@
+interface:
+  display_name: "Proposal Strategist"
+  short_description: "Strategic proposal architect who transforms RFPs and sales op..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $sales-proposal-strategist when you need proposal strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,9 @@
+{
+  "name": "agency-agents",
+  "description": "Browse and trigger specialist skills across engineering, design, product, testing, strategy, and support.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gavin"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Solidity Smart Contract Engineer"
+  short_description: "Expert Solidity developer specializing in EVM smart contract..."
+  brand_color: "#EA580C"
+  default_prompt: "Use $engineering-solidity-smart-contract-engineer when you need solidity smart contract engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

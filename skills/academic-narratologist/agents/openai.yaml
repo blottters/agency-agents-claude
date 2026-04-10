@@ -1,0 +1,8 @@
+interface:
+  display_name: "Narratologist"
+  short_description: "Expert in narrative theory, story structure, character arcs,..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $academic-narratologist when you need narratologist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

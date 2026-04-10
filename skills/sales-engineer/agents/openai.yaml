@@ -1,0 +1,8 @@
+interface:
+  display_name: "Sales Engineer"
+  short_description: "Senior pre-sales engineer specializing in technical discovery..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $sales-engineer when you need sales engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Analytics Reporter"
+  short_description: "Expert data analyst transforming raw data into actionable bus..."
+  brand_color: "#0F766E"
+  default_prompt: "Use $support-analytics-reporter when you need analytics reporter guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

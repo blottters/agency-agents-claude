@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI Data Remediation Engineer"
+  short_description: "Specialist in self-healing data pipelines - uses air-gapped l..."
+  brand_color: "#15803D"
+  default_prompt: "Use $engineering-ai-data-remediation-engineer when you need ai data remediation engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

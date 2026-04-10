@@ -1,0 +1,8 @@
+interface:
+  display_name: "ZK Steward"
+  short_description: "Knowledge-base steward in the spirit of Niklas Luhmann's Zett..."
+  brand_color: "#0F766E"
+  default_prompt: "Use $zk-steward when you need zk steward guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

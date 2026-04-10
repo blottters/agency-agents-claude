@@ -1,0 +1,8 @@
+interface:
+  display_name: "Outbound Strategist"
+  short_description: "Signal-based outbound specialist who designs multi-channel pr..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $sales-outbound-strategist when you need outbound strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

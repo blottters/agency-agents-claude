@@ -1,0 +1,8 @@
+interface:
+  display_name: "Incident Response Commander"
+  short_description: "Expert incident commander specializing in production incident..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-incident-response-commander when you need incident response commander guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

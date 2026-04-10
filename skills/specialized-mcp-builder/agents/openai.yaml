@@ -1,0 +1,8 @@
+interface:
+  display_name: "MCP Builder"
+  short_description: "Expert Model Context Protocol developer who designs, builds,..."
+  brand_color: "#4F46E5"
+  default_prompt: "Use $specialized-mcp-builder when you need mcp builder guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

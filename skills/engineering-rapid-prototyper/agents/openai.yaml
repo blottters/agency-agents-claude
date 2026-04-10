@@ -1,0 +1,8 @@
+interface:
+  display_name: "Rapid Prototyper"
+  short_description: "Specialized in ultra-fast proof-of-concept development and MV..."
+  brand_color: "#15803D"
+  default_prompt: "Use $engineering-rapid-prototyper when you need rapid prototyper guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Agentic Identity & Trust Architect"
+  short_description: "Designs identity, authentication, and trust verification syst..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $agentic-identity-trust when you need agentic identity & trust architect guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

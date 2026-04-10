@@ -1,0 +1,8 @@
+interface:
+  display_name: "SRE (Site Reliability Engineer)"
+  short_description: "Expert site reliability engineer specializing in SLOs, error..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-sre when you need sre (site reliability engineer) guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

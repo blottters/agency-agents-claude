@@ -1,0 +1,8 @@
+interface:
+  display_name: "Weibo Strategist"
+  short_description: "Full-spectrum operations expert for Sina Weibo, with deep exp..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-weibo-strategist when you need weibo strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

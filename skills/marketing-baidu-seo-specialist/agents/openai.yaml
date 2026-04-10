@@ -1,0 +1,8 @@
+interface:
+  display_name: "Baidu SEO Specialist"
+  short_description: "Expert Baidu search optimization specialist focused on Chines..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-baidu-seo-specialist when you need baidu seo specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

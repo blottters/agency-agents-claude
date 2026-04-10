@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI Engineer"
+  short_description: "Expert AI/ML engineer specializing in machine learning model..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-ai-engineer when you need ai engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

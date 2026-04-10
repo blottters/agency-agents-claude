@@ -1,0 +1,8 @@
+interface:
+  display_name: "Geographer"
+  short_description: "Expert in physical and human geography, climate systems, cart..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $academic-geographer when you need geographer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

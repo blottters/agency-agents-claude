@@ -1,0 +1,8 @@
+interface:
+  display_name: "Terminal Integration Specialist"
+  short_description: "Terminal emulation, text rendering optimization, and SwiftTer..."
+  brand_color: "#15803D"
+  default_prompt: "Use $terminal-integration-specialist when you need terminal integration specialist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

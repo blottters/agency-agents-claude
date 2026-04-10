@@ -1,0 +1,8 @@
+interface:
+  display_name: "Mobile App Builder"
+  short_description: "Specialized mobile application developer with expertise in na..."
+  brand_color: "#7C3AED"
+  default_prompt: "Use $engineering-mobile-app-builder when you need mobile app builder guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

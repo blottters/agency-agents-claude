@@ -1,0 +1,8 @@
+interface:
+  display_name: "Livestream Commerce Coach"
+  short_description: "Veteran livestream e-commerce coach specializing in host trai..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-livestream-commerce-coach when you need livestream commerce coach guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

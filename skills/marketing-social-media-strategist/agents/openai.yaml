@@ -1,0 +1,8 @@
+interface:
+  display_name: "Social Media Strategist"
+  short_description: "Expert social media strategist for LinkedIn, Twitter, and pro..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-social-media-strategist when you need social media strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

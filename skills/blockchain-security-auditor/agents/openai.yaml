@@ -1,0 +1,8 @@
+interface:
+  display_name: "Blockchain Security Auditor"
+  short_description: "Expert smart contract security auditor specializing in vulner..."
+  brand_color: "#DC2626"
+  default_prompt: "Use $blockchain-security-auditor when you need blockchain security auditor guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

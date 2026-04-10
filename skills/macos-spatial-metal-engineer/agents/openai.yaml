@@ -1,0 +1,8 @@
+interface:
+  display_name: "macOS Spatial/Metal Engineer"
+  short_description: "Native Swift and Metal specialist building high-performance 3..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $macos-spatial-metal-engineer when you need macos spatial/metal engineer guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Legal Compliance Checker"
+  short_description: "Expert legal and compliance specialist ensuring business oper..."
+  brand_color: "#DC2626"
+  default_prompt: "Use $support-legal-compliance-checker when you need legal compliance checker guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

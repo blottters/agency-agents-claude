@@ -1,0 +1,8 @@
+interface:
+  display_name: "Report Distribution Agent"
+  short_description: "AI agent that automates distribution of consolidated sales re..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $report-distribution-agent when you need report distribution agent guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Salesforce Architect"
+  short_description: "Solution architecture for Salesforce platform - multi-cloud d..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $specialized-salesforce-architect when you need salesforce architect guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true

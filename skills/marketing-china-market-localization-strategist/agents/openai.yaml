@@ -1,0 +1,8 @@
+interface:
+  display_name: "China Market Localization Strategist"
+  short_description: "Full-stack China market localization expert who transforms re..."
+  brand_color: "#2563EB"
+  default_prompt: "Use $marketing-china-market-localization-strategist when you need china market localization strategist guidance, deliverables, and decision rules for this task."
+
+policy:
+  allow_implicit_invocation: true
