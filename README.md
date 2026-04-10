@@ -15,6 +15,7 @@ This repo is intended to preserve the broad specialist roster that existed in Co
 - Full-fidelity skill port
 - 142 specialist skill folders
 - Skill names preserved so invocation and browsing stay predictable
+- Includes a Claude plugin subagent router in `agents/agency-agents-router.md`
 
 ## Install for Claude Code
 
@@ -42,11 +43,18 @@ Example:
 /agency-agents:engineering-frontend-developer
 ```
 
+Plugin subagent:
+
+```text
+@agency-agents:agency-agents-router
+```
+
 ## Notes
 
 - This repo keeps the original skill content and supporting files as closely as possible.
 - Codex-specific metadata was not carried forward into the active Claude manifest unless it mapped cleanly to Claude's public plugin structure.
 - Extra source files such as per-skill `agents/openai.yaml` are retained for provenance/reference, but the core Claude behavior is driven by the `skills/` tree.
+- A Claude-native router agent was added in the plugin root `agents/` directory so the plugin can expose an explicit specialist router through Claude's subagent system.
 
 ## Source
 
